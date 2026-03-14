@@ -16,3 +16,8 @@ This project analyzes grocery order data to understand demand patterns and optim
 
 ## Dashboard
 The Power BI dashboard visualizes demand trends, top selling products, and department-level insights.
+
+Google Drive link for dashboard:
+https://drive.google.com/file/d/1bybxOCJwXVM2-FVwfEQ0OGcdpHjuClY_/view?usp=drive_link
+
+
